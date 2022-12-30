@@ -5,10 +5,10 @@ My name is Camila Farias, I'm a programmer, student and passionate about technol
 I'm starting in this space, and I hope that my works can contribute to everyone and also that I can find people who inspire me even more in this world of codes.
 
 
-<div align="center">
+<div align-itens="center">
   <a href="https://github.com/camilabfarias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
