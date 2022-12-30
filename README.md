@@ -1,4 +1,4 @@
-## Hi! 🙃
+## Hi! ✨👩‍💻
 
 My name is Camila Farias, I'm a programmer, student and passionate about technology.
 
@@ -7,8 +7,8 @@ I'm starting in this space, and I hope that my works can contribute to everyone 
 
 <div align="center">
   <a href="https://github.com/camilabfarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabfarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
