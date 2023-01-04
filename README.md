@@ -1,28 +1,32 @@
-## Hi! ✨👩‍💻
+## Hello! :wave: :sparkles: 
 
 My name is Camila Farias, I'm a programmer, student and passionate about technology.
 
 I'm starting in this space, and I hope that my works can contribute to everyone and also that I can find people who inspire me even more in this world of codes.
+<br>
+<br>
+<br>
+![camila GitHub stats](https://github-readme-stats.vercel.app/api?username=camilabfarias&theme=ayu-mirage&_icons=true)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&theme=ayu-mirage&_icons=true)](https://github.com/camilabfarias/github-readme-stats)
+<br>
+<br>
+<br>
+:wrench: Languages and tools:
+<div style="display: inline_block">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-
-<div align-itens="center">
-  <a href="https://github.com/camilabfarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabfarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabfarias&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"       
 </div>
   
   ##
-  
+  :speech_balloon: Talk to me:
+  <br>
   <div> 
   <a href="https://www.instagram.com/camilabfarias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:camilabuenof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
