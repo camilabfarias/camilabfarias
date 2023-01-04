@@ -1,8 +1,8 @@
-## Hello! :wave: :sparkles: 
+## Olá! :wave: :sparkles: 
 
-My name is Camila Farias, I'm a programmer, student and passionate about technology.
+Meu nome é Camila, sou técnologa em contabilidade pelo Senac-RS Brasil, estudante e apaixonada por tecnologia.
 
-I'm starting in this space, and I hope that my works can contribute to everyone and also that I can find people who inspire me even more in this world of codes.
+Estou iniciando minha transição de carreira como programadora front-end, e espero que meus trabalhos possam contribuir de alguma forma e que eu possa encontrar inspirações pelo mundo dos códigos.
 <br>
 <br>
 <br>
