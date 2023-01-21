@@ -1,8 +1,8 @@
 ## Olá! :wave: :sparkles: 
 
-Meu nome é Camila, sou técnologa em contabilidade pelo Senac-RS Brasil, estudante e apaixonada por tecnologia.
+Meu nome é Camila, sou formada como Desenvolvedora FullStack pelo DevClub do Brasil, estudante e apaixonada por tecnologia.
 
-Estou iniciando minha transição de carreira como programadora front-end, e espero que meus trabalhos possam contribuir de alguma forma e que eu possa encontrar inspirações pelo mundo dos códigos.
+Estou na transição de carreira como Desenvolvedora Front-End, e espero que eu possa inspirar e encontrar inspirações aqui, pelo mundo dos códigos.
 <br>
 <br>
 <br>
