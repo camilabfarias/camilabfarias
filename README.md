@@ -1,6 +1,6 @@
 ## Olá! :wave: :sparkles: 
 
-Meu nome é Camila, sou formada como Desenvolvedora FullStack pelo DevClub do Brasil, estudante e apaixonada por tecnologia.
+Meu nome é Camila, sou formada Desenvolvedora FullStack pelo DevClub do Brasil, estudante e apaixonada por tecnologia.
 
 Estou na transição de carreira como Desenvolvedora Front-End, e espero que eu possa inspirar e encontrar inspirações aqui, pelo mundo dos códigos.
 <br>
